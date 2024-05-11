@@ -35,8 +35,6 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: fit-content;
-  margin: 0 auto;
 }
 
 .app-header {
@@ -263,8 +261,4 @@ progress {
   justify-content: space-between;
   align-items: center;
   margin-top: 20px;
-}
-
-.main {
-  width: 100%;
 }
